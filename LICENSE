@@ -1,0 +1,68 @@
+MIT License
+
+Copyright (c) 2026 India Equity Report Skill Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL DISCLAIMERS FOR FINANCIAL RESEARCH USE
+
+1. NOT INVESTMENT ADVICE
+   This software generates equity research reports for informational and 
+   educational purposes only. It does not constitute investment advice, 
+   recommendations to buy or sell securities, or SEBI-registered research.
+
+2. NO WARRANTY OF ACCURACY
+   While the software fetches data from authoritative public sources, it 
+   cannot guarantee real-time accuracy, completeness, or freedom from errors.
+   Users must independently verify all data before making investment decisions.
+
+3. MARKET RISKS
+   All securities investments involve risk of loss. Past performance is not 
+   indicative of future results. The software's valuation models and price 
+   targets are speculative estimates based on assumptions that may not 
+   materialize.
+
+4. COMPLIANCE REQUIREMENTS
+   Users generating reports for commercial distribution or client advisory 
+   must ensure compliance with applicable securities regulations including:
+   - SEBI (Research Analysts) Regulations, 2014 (India)
+   - SEBI (Investment Advisers) Regulations, 2013 (India)
+   - Local securities laws in their jurisdiction
+
+5. DATA SOURCE ATTRIBUTION
+   Reports must include the mandatory SEBI disclaimer and source citations
+   as provided in the template. Removal of disclaimers or source attributions
+   is a violation of this license.
+
+6. LIMITATION OF LIABILITY
+   In no event shall the authors, contributors, or copyright holders be liable
+   for any direct, indirect, incidental, special, exemplary, or consequential
+   damages (including but not limited to loss of profits, trading losses, or
+   business interruption) arising from use of this software.
+
+7. USER RESPONSIBILITY
+   Users are solely responsible for:
+   - Conducting independent due diligence
+   - Consulting qualified financial advisors
+   - Understanding and accepting all investment risks
+   - Verifying regulatory compliance in their jurisdiction
+
+By using this software, you acknowledge reading and agreeing to these terms.
